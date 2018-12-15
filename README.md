@@ -37,5 +37,10 @@ sudo fc-cache -fv
 ```
 之后就可以在 IDE中设置并使用使用该字体.
 
+## pycharm设置YaHei Consolas Hybrid 1.12字体
+
+![s](https://github.com/pyfaith/beautify_fonts/raw/master/assets/img/pycharm_setup_fonts1.png)
+
+![s](https://github.com/pyfaith/beautify_fonts/raw/master/assets/img/pycharm_setup_fonts2.png)
 
 LiHeiPro.ttf也是一款不错的字体，可自行更换。
