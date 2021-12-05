@@ -5,13 +5,13 @@
 
 ## 一键安装 YaHei Consolas Hybrid 1.12
 ```
-wget -qO- https://raw.githubusercontent.com/yakumioto/YaHei-Consolas-Hybrid-1.12/master/install.sh | sudo sh
+wget -qO- https://raw.githubusercontent.com/onecany/beautify_fonts/master/install.sh | sudo sh
 ```
 
 ## 安装
 + 下载这个字体.
 ```
-git clone https://github.com/yakumioto/beautify_fonts.git
+git clone https://github.com/onecnay/beautify_fonts.git
 ```
 + 在家目录下建立一个新的目录 ~/.fonts/apple/
 ```
