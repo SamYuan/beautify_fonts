@@ -11,7 +11,7 @@ wget -qO- https://raw.githubusercontent.com/yakumioto/YaHei-Consolas-Hybrid-1.12
 ## 安装
 + 下载这个字体.
 ```
-git clone https://github.com/pyfaith/beautify_fonts.git
+git clone https://github.com/yakumioto/beautify_fonts.git
 ```
 + 在家目录下建立一个新的目录 ~/.fonts/apple/
 ```
